@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [robinsamuelkutty](https://robin-website-psi.vercel.app)
 
-- 💬 Ask me about **MongoDB, Express, React, and Node.js**
+- 💬 Ask me about **MongoDB, Express, React, Node.js, NextJs, Problelm solving**
 
 - 📫 How to reach me **robinsamuelkutty77@gmail.com**
 
