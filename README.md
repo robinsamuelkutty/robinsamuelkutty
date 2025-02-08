@@ -36,6 +36,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robinsamuelkutty&show_icons=true&locale=en" alt="robinsamuelkutty" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robinsamuelkutty&" alt="robinsamuelkutty" /></p>
-<p align="center">
-  <img src="https://gpvc.arturio.dev/robinsamuelkutty" alt="Profile views" />
-</p>
+![Profile Views](https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=count&url=https://gpvc.arturio.dev/robinsamuelkutty)
+
