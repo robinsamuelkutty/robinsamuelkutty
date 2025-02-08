@@ -1,8 +1,8 @@
 ![MasterHead](https://user-images.githubusercontent.com/60442324/233789761-569fbf12-b216-48e0-8427-1c242f0583d7.gif)
 
-<h2 align="center">
+<h2 align="center" >
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Hey+I'am+Robin+Samuelkutty;Tech+Enthusiast;Passionate+Developer;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Hey+I'am+Robin+Samuelkutty;Tech+Enthusiast;Passionate+Developer;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </h2>
 
