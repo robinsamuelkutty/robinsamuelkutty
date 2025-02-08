@@ -4,12 +4,12 @@
 
 <h2 align="center" >
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Hey+I'am+Robin+Samuelkutty;Tech+Enthusiast;Passionate+Developer;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Hey+I'am+Robin+Samuelkutty;Tech+Enthusiast;Passionate+Developer;Always+Learning" alt="Typing SVG" />
   </a>
 </h2>
 
 <h3 align="center">
-  🚀 I am deeply passionate about technology and coding. My journey as a developer started when I discovered my love for problem-solving and creativity in the digital world. Through countless hours of learning, online courses, and hands-on projects, I have honed my skills in web development, real-time communication, and AI-driven applications. I always strive to stay ahead with the latest technologies and love building innovative solutions that make an impact.
+   I am deeply passionate about technology and coding. My journey as a developer started when I discovered my love for problem-solving and creativity in the digital world. Through countless hours of learning, online courses, and hands-on projects, I have honed my skills in web development, real-time communication, and AI-driven applications. I always strive to stay ahead with the latest technologies and love building innovative solutions that make an impact.
 </h3>
 
 
