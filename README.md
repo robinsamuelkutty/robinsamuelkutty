@@ -1,4 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/60442324/233789761-569fbf12-b216-48e0-8427-1c242f0583d7.gif)
+![Profile Views](https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=count&url=https://gpvc.arturio.dev/robinsamuelkutty)
 
 <h2 align="center" >
   <a href="https://git.io/typing-svg">
@@ -36,5 +37,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robinsamuelkutty&show_icons=true&locale=en" alt="robinsamuelkutty" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robinsamuelkutty&" alt="robinsamuelkutty" /></p>
-![Profile Views](https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=count&url=https://gpvc.arturio.dev/robinsamuelkutty)
+
 
