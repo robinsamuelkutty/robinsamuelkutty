@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/60442324/233789761-569fbf12-b216-48e0-8427-1c242f0583d7.gif)
-<h1 align="center">Hey 👋, I'm Robin Samuelkutty</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 <h3 align="center">I am a very enthusiast on tech and very passionate on coding.🚀 My journey as a developer began when I discovered my passion for coding and decided to pursue it on my own. Through countless hours of online courses, tutorials, and practice, I honed my skills and developed a strong understanding of web development concepts and best practices. I love the challenge of problem-solving and am always looking for ways to improve my abilities and stay up-to-date with the latest technologies.</h3>
 
 
