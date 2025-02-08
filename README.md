@@ -1,6 +1,14 @@
 ![MasterHead](https://user-images.githubusercontent.com/60442324/233789761-569fbf12-b216-48e0-8427-1c242f0583d7.gif)
-<h2 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)/>
-<h3 align="center">I am a very enthusiast on tech and very passionate on coding.🚀 My journey as a developer began when I discovered my passion for coding and decided to pursue it on my own. Through countless hours of online courses, tutorials, and practice, I honed my skills and developed a strong understanding of web development concepts and best practices. I love the challenge of problem-solving and am always looking for ways to improve my abilities and stay up-to-date with the latest technologies.</h3>
+
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Hey+I'am+Robin+Samuelkutty;Tech+Enthusiast;Passionate+Developer;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</h2>
+
+<h3 align="center">
+  🚀 I am deeply passionate about technology and coding. My journey as a developer started when I discovered my love for problem-solving and creativity in the digital world. Through countless hours of learning, online courses, and hands-on projects, I have honed my skills in web development, real-time communication, and AI-driven applications. I always strive to stay ahead with the latest technologies and love building innovative solutions that make an impact.
+</h3>
 
 
 
