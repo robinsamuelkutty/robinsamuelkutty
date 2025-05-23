@@ -17,7 +17,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robinsamuelkutty" alt="robinsamuelkutty" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif"/>
 
-- 👨‍💻 All of my projects are available at [robinsamuelkutty](https://robin-website-psi.vercel.app)
+- 👨‍💻 All of my projects are available at [robinsamuelkutty](https://robinsam.vercel.app/)
 
 - 💬 Ask me about **MongoDB, Express, React, Node.js, NextJs, Problelm solving**
 
