@@ -8,9 +8,7 @@
   </a>
 </h2>
 
-<h3 align="center">
-   I am deeply passionate about technology and coding. My journey as a developer started when I discovered my love for problem-solving and creativity in the digital world. Through countless hours of learning, online courses, and hands-on projects, I have honed my skills in web development, real-time communication, and AI-driven applications. I always strive to stay ahead with the latest technologies and love building innovative solutions that make an impact.
-</h3>
+
 
 
 
