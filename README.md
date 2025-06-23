@@ -36,6 +36,7 @@
  <img width=325 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinsamuelkutty&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robinsamuelkutty&show_icons=true&locale=en&layout=compact" alt="robinsamuelkutty" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robinsamuelkutty&show_icons=true&locale=en" alt="robinsamuelkutty" /></p>
 
